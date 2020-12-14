@@ -14,6 +14,28 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+<h1>Vista projecto general</h3>
+
+<h3>General</h3>
+
+![](imagenes/general.PNG)
+
+<h3>Export</h3>
+
+![](imagenes/export.PNG)
+
+<h3>Filtrar Columnas</h3>
+
+![](imagenes/Filtrado_columnas.PNG)
+
+<h3>Filtrar Registros</h3>
+
+![](imagenes/Filtrar.PNG)
+
+<h3>Ordenar Columnas</h3>
+
+![](imagenes/Ordenar_Columnas.PNG)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
