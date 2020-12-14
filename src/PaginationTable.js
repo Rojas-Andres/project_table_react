@@ -101,7 +101,9 @@ export const PaginationTable = (props) => {
     ,useSortBy,
     usePagination)
     const { pageIndex , pageSize } = state
+
     console.log(columns)
+    
     return (
         <>
         <div class="container">
